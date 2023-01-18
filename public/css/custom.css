@@ -1,0 +1,10 @@
+.post {
+    font-family: 'Nunito', sans-serif;
+    float: left;
+    max-width: 24%;
+}
+
+.post-title {
+    font-family: 'Nunito', sans-serif;
+    font-size: medium;
+}
